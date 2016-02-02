@@ -19,9 +19,5 @@ The program itself will guide you through how to use it. It is very straightforw
 ###Development
 I have documented how the script works inside the code itself. Feel free to do whatever you want with it! Nyaa.se didn't have an api so the methods I used to get html data could work for a myriad of other sites.
 
-##Misc
 ###Why?
 I wanted a challenge. I wanted to see if I could interact with a site without an api.
-
-###Contact Me
-The best way to reach me is through my twitter, twitter.com/yung_jiggly
