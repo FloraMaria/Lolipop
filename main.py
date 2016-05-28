@@ -1,6 +1,3 @@
-# Lolipop by RgTQUg, 2016
-# Feel free to use/modify as you wish, just don't claim you made it yourself or anything.
-
 from modules import searchmodules, searchmodules_ero
 import sys
 
